@@ -1,0 +1,8 @@
+index/
+dist/
+fwdindex/
+gtpm/
+index_nofilter/
+output*
+/bin/
+input/

@@ -44,10 +44,3 @@ local.properties
 
 # PDT-specific
 .buildpath
-
-index/*
-dist/*
-fwdindex/*
-index_nofilter/*
-output*
-/bin/
