@@ -1,0 +1,7 @@
+bookkeeping_files/
+bookkeeping_projs/
+tokens
+*.log
+project_starting_index.txt
+projects_success.txt
+project-list.txt
